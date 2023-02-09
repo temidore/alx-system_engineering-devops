@@ -1,4 +1,0 @@
-#!/bin/bash
-cd temp
-cd my_first_directory
-mv betty
