@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd Hello, World > 0-hello_world
+#cho "Hello, World"
